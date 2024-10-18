@@ -11,5 +11,10 @@
   "devDependencies": {
     "vite": "^5.4.8",
     "vite-svg-sprite-wrapper": "^1.3.3"
+  },
+  "dependencies": {
+    "@vheemstra/vite-plugin-imagemin": "^2.0.0",
+    "imagemin-mozjpeg": "^10.0.0",
+    "imagemin-webp": "^8.0.0"
   }
 }
